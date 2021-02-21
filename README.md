@@ -18,3 +18,11 @@ The questions that i have tried to answer are:
 
 ## File Descriptions
 This repoaotory contain 3 python jupyter notebooks. Each notebook tackles a seperate question as mentioned above.
+
+
+## Results
+Analysis results can be found [here](https://medium.com/@nauman_zahoor/learn-these-top-software-skills-to-future-proof-your-career-2fd5f3d8c93f).
+
+## Licensing, Authors and Acknowledgements
+Data for the analysis is downloaded from [here](https://insights.stackoverflow.com/survey).
+Use the code however you want! 
